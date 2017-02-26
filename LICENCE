@@ -1,7 +1,5 @@
-Licencing for this project is messy, as it includes code from vendors who don't make open source licensing easy...
+Licencing for this project is a little messy, as it includes code from vendors who don't make open source licensing easy...
 
-
-This project includes code from FreeRTOS. This is distributed under a modified GPL v2 licence: http://www.freertos.org/license.txt
 
 This project includes code from the STM32 standard libraries. This is owned by ST Ltd., and I have no idea what the the licence terms are.
 
